@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calender App</string>
+    <string name="view_more">View More</string>
+    <string name="view_less">View Less</string>
+    <string name="top_app_bar_title">PLan Your Day</string>
+    <string name="check">Check</string>
+    <string name="modify">Modify</string>
+    <string name="delete">Delete</string>
+</resources>
